@@ -7,9 +7,10 @@
 - [Felix](Felix.md)
 
 # Skandale und Clips
-- [N-Wort](n-wort.md)
 - [Löschen von Clips](clips-deletion.md)
+- [N-Wort](n-wort.md)
 - [Discord zieht nur FPS](discordrant.md)
+
 
 
 
