@@ -1,1 +1,1 @@
-Am **1.Februar 2026** im Stream hat der Live Streamer **SDS_Basti** aufgrund von gekillt werden *Zitat*: "Du kleiner Neger" gesagt. Dieses verhalten wurde vom Benutzer **chris11_17** geclipt und zu Twitch gemeldet, woraufhin der Streamer eine **Verwarnung erhalten hat**.
+# 404 Not Found
